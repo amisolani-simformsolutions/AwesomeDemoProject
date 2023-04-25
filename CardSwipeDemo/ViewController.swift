@@ -100,6 +100,9 @@ extension ViewController: BMSSwiperDelegate {
         //debugPrint("\(swiper)")
     }
     
+    
+    
+    
     func swiperDidStartCardRead(_ swiper: BMSSwiper) {
         debugPrint("start card read")
         //debugPrint("\(swiper)")
